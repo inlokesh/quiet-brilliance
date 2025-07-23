@@ -1,3 +1,8 @@
+---
+layout: default
+title: "My Article Title"
+---
+
 # The Quiet Brilliance of Hemanth
 
 Say what you will about Mr. Murthy, but nothing substantial happens without hard work. He was also right about the importance of mastering English—not the performative kind acquired in fancy schools while aping Western liberal culture, but the real thing: robust vocabulary paired with solid grammar and composition skills.
