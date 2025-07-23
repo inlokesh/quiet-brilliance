@@ -1,0 +1,24 @@
+theme: minima
+title: ""
+description: ""
+sass:
+  style: compressed
+include:
+  - assets/css/custom.css
+
+plugins:
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+
+# Inject custom CSS
+minima:
+  skin: auto
+  social_links: []
+  include_css:
+    - assets/css/custom.css
