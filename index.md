@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "My Article Title"
+title: "Quiet Brilliance of Hemanth"
 ---
 
 # The Quiet Brilliance of Hemanth
